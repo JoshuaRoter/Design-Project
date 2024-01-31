@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+.HeadingforMcLaren{
+    position: absolute;
+    top: 50px;
+    left: 700px;
+    font-size: 20px;
+}
+.Logo{
+    position: absolute;
+    top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.BM{
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    border: 5px solid black;
+    width: 600px;
+    height: 350px;
+    background-color: goldenrod
+}
+.ParaBM{
+    position: absolute;
+    top: 190px;
+    left: 160px;
+}
+.PicBM{
+    position: absolute;
+    top: 260px;
+    left: 230px;
+}
+body{
+    background-color: crimson;
+}
+.P1{
+    position: absolute;
+    top: 150px;
+    left: 800px;
+    border: 5px solid black;
+    width: 600px;
+    height: 350px;
+    background-color: rgb(25, 237, 25);
+}
+.ParaP1{
+    position: absolute;
+    top: 190px;
+    left: 800px;
+}
+.PicP1{
+    position: absolute;
+    top: 280px;
+    left: 950px;
+}
+.M720s{
+    position: absolute;
+    top: 550px;
+    left: 150px;
+    border: 5px solid black;
+    width: 600px;
+    height: 350px;
+    background-color: firebrick;
+}
+.Para720s{
+    position: absolute;
+    top: 590px;
+    left: 160px;
+}
+.Pic720s{
+    position: absolute;
+    top: 690px;
+    left: 220px;
+}
+.Speedtail{
+    position: absolute;
+    top: 550px;
+    left: 800px;
+    border: 5px solid black;
+    width: 600px;
+    height: 350px;
+    background-color: aqua;
+}
+.Paratail{
+    position: absolute;
+    top: 590px;
+    left: 810px;
+}
+.PicSpeedtail{
+    position: absolute;
+    top: 690px;
+    left: 860px;
+}
+

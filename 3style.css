@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+.Headingforferrari{
+    position: absolute;
+    top: 50px;
+    left: 700px;
+    font-size: 20x;
+}
+body{
+    background-color: gold;
+}
+.Logo{
+    position: absolute;
+    top: 10px;
+    color: black;
+    text-decoration: none;
+}
+.EF{
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    border: 5px solid black;
+    width: 600px;
+    height: 350px;
+    background-color:dodgerblue;
+}
+.Paraenzo{
+    position: absolute;
+    top: 190px;
+    left: 160px;
+}
+.Enzo{
+    position: absolute;
+    top: 260px;
+    left: 230px;
+}
+.Ferrari488{
+    position: absolute;
+    top: 150px;
+    left: 800px;
+    border: 5px solid black;
+    width: 600px;
+    height: 350px;
+    background-color: red;
+}
+.Para488{
+    position: absolute;
+    top: 190px;
+    left: 800px;
+}
+.Pic488{
+    position: absolute;
+    top: 280px;
+    left: 950px;
+}
+.LaFerrari{
+    position: absolute;
+    top: 550px;
+    left: 150px;
+    border: 5px solid black;
+    width: 600px;
+    height: 350px;
+    background-color: darkolivegreen;
+}
+.ParaLaFerrari{
+    position: absolute;
+    top: 590px;
+    left: 160px;
+}
+.PicLaFerrari{
+    position: absolute;
+    top: 690px;
+    left: 220px;
+}
+.FerrariF8Spider{
+    position: absolute;
+    top: 550px;
+    left: 800px;
+    border: 5px solid black;
+    width: 600px;
+    height: 350px;
+    background-color: yellow;
+}
+.ParaF8Spider{
+    position: absolute;
+    top: 590px;
+    left: 810px;
+}
+.PicF8Spider{
+    position: absolute;
+    top: 690px;
+    left: 860px;
+}
